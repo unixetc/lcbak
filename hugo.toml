@@ -1,6 +1,6 @@
-baseURL = 'https://archive.linux.cn/'
+baseURL = 'https://linux.qgis.top/'
 languageCode = 'zh-Hans'
-title = 'Linux.cn Archive'
+title = 'Linux中国备份'
 theme = "mainroad"
 uglyURLs = false
 paginate = 50
@@ -10,7 +10,7 @@ schema = true # Enable Schema
 readmore = true # Show "Read more" button in list if true
 post_meta = ["author", "date"]
 [Params.logo]
-  title = "Linux.cn Archive"
+  title = "Linux中国备份"
 [Params.thumbnail]
   visibility = ["list", "post"] # Control thumbnail visibility
 [outputs]
